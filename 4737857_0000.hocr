@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737857_0000.png"; bbox 0 0 3404 4384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 902 944 2531 1247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 902 944 2546 1304">
+     <span class='ocr_line' id='line_1_1' title="bbox 902 944 2531 1247; baseline 0.003 -14"><span class='ocrx_word' id='word_1_1' title='bbox 902 944 2531 1247; x_wconf 75' lang='lat' dir='ltr'>MASTER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 719 1396 3192 2152">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 719 1396 3192 2152">
+     <span class='ocr_line' id='line_1_2' title="bbox 719 1396 3192 1711; baseline 0.011 -26"><span class='ocrx_word' id='word_1_2' title='bbox 719 1396 2702 1700; x_wconf 76' lang='lat' dir='ltr'><strong>NEGATWE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3188 1706 3192 1711; x_wconf 73' lang='grc'><em>,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 859 1853 3164 2152; baseline -0.005 -11"><span class='ocrx_word' id='word_1_4' title='bbox 859 1853 2554 2152; x_wconf 76' lang='grc' dir='ltr'>ΝυΝΙΒΕΗ</span> <span class='ocrx_word' id='word_1_5' title='bbox 3159 2126 3164 2129; x_wconf 74' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 2766 2570 3073">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 390 2717 2570 3204">
+     <span class='ocr_line' id='line_1_4' title="bbox 811 2766 2570 3073; baseline 0.006 -11.296"><span class='ocrx_word' id='word_1_6' title='bbox 811 2766 2570 3073; x_wconf 82' lang='lat'>00-262.23</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
